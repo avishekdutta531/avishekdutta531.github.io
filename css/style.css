@@ -1282,3 +1282,24 @@ footer .credits a {
 .col-md-6 {
     margin: auto;
 }
+/*======================================
+//--//-->   404
+======================================*/
+.not_found{
+  padding-bottom: 75px;
+  padding-top: 125px;
+}
+.not_found .text{
+  text-align: center;
+}
+.not_found .text h1{
+  font-size: 100px;
+}
+.not_found .text h4{
+  font-size: 25px;
+}
+.not_found .text p{
+  font-size: 20px;
+  padding-top: 2px;
+}
+
